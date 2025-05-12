@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 mehul
 Mihir
 yugy
+=======
+wahhhhhhhh
+hi there im a girl
+what ru doin
+>>>>>>> 6f9af52167d64a68fe421f4cdb3b42599d24cff1
